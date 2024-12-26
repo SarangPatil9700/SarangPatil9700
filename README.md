@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Advanced Java Frameworks such as Spring,Springboot,Hibernate,etc.**
 
-- Project Intern India Meteorological Department,Ministry of Earth & Sciences,Govt.of India [Rutu (Weather App)](https://github.com/SarangPatil9700/Weather-APP-IMD)
-
-- Core Java Project [Airline Management System](https://github.com/SarangPatil9700/Airline_Management_System)
+- Ex-Project Intern India Meteorological Department,Ministry of Earth & Sciences,Govt.of India [Rutu (Weather App)](https://github.com/SarangPatil9700/Weather-APP-IMD)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SarangPatil9700?tab=repositories](https://github.com/SarangPatil9700?tab=repositories)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RiwuMfztJ3aRxEz-AUsCOsAhsnP1Hr3v/view?usp=sharing](https://drive.google.com/file/d/1RiwuMfztJ3aRxEz-AUsCOsAhsnP1Hr3v/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1RiwuMfztJ3aRxEz-AUsCOsAhsnP1Hr3v/view?usp=sharing](https://drive.google.com/file/d/1RiwuMfztJ3aRxEz-AUsCOsAhsnP1Hr3v/view?usp=sharing)
 
 - 💬 Ask me about **Google Cloud Platform,Software Development,Core Java,SQL,Web Development**
 
