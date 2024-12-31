@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarangpatil9700&label=Profile%20views&color=0e75b6&style=flat" alt="sarangpatil9700" /> </p>
 
-- 🌱 I’m currently learning **Advanced Java Frameworks such as Spring,Springboot,Hibernate,etc.**
-
 - Ex-Project Intern India Meteorological Department,Ministry of Earth & Sciences,Govt.of India [Rutu (Weather App)](https://github.com/SarangPatil9700/Weather-APP-IMD)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SarangPatil9700?tab=repositories](https://github.com/SarangPatil9700?tab=repositories)
