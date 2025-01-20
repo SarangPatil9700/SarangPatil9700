@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SarangPatil9700?tab=repositories](https://github.com/SarangPatil9700?tab=repositories)
 
-- 📄 Resume [https://drive.google.com/file/d/1RiwuMfztJ3aRxEz-AUsCOsAhsnP1Hr3v/view?usp=sharing]
+- 📄 Resume [https://bit.ly/3WsBGdb]
 
 - 💬 Ask me about **Google Cloud Platform,Software Development,Core Java,SQL,Web Development**
 
