@@ -11,7 +11,7 @@
 
 - 📄 Resume [https://bit.ly/3WsBGdb]
 
-- 💬 Ask me about **Google Cloud Platform,Software Development,Core Java,SQL,Web Development**
+- 💬 Ask me about **Software Development,Core Java,OOP's,SQL,Database Management,Web Development,Google Cloud Platform**
 
 - 📫 How to reach me **sarangpatil9700@gmail.com**
 
