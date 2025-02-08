@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SarangPatil9700?tab=repositories](https://github.com/SarangPatil9700?tab=repositories)
 
-- 📄 Resume [https://bit.ly/3WsBGdb]
+- 📄 Portfolio [https://sarangpatil9700.github.io/Portfolio-Website/]
 
-- 💬 Ask me about **Software Development,Core Java,OOP's,SQL,Database Management,Web Development,Google Cloud Platform**
+- 💬 Ask me about **Software Development,C/C++,Java,JavaScript,SQL,Database Management,Web Development,Google Cloud Platform,DevOps**
 
 - 📫 How to reach me **sarangpatil9700@gmail.com**
 
@@ -31,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarangpatil9700&show_icons=true&locale=en" alt="sarangpatil9700" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarangpatil9700&" alt="sarangpatil9700" /></p>
-
-Support 🙏
